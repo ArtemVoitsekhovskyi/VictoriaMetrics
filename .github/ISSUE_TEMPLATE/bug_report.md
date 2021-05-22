@@ -9,7 +9,7 @@ assignees: ''
 
 **Describe the bug**
 A clear and concise description of what the bug is.
-It would be great [upgrading](https://victoriametrics.github.io/#how-to-upgrade) to [the latest avaialble release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases)
+It would be a great [upgrade](https://victoriametrics.github.io/#how-to-upgrade) to [the latest avaialble release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases)
 and verifying whether the bug is reproducible there.
 It is also recommended reading [troubleshooting docs](https://victoriametrics.github.io/#troubleshooting).
 
